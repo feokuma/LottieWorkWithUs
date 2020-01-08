@@ -67,7 +67,6 @@
     <None Include="Entitlements.plist" />
     <None Include="Info.plist" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <BundleResource Include="Resources\jumbo-typing.json" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
@@ -137,6 +136,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\kindpng.png" />
+    <BundleResource Include="jumbo-typing.json" />
+    <BundleResource Include="kindpng.png" />
   </ItemGroup>
 </Project>

@@ -193,3 +193,7 @@ UpgradeLog*.htm
 FakesAssemblies/
 
 .vscode/settings.json
+
+# file: ~/.gitignore_global
+.DS_Store
+.idea
